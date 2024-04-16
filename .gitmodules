@@ -1,3 +1,6 @@
 [submodule "Merchant-App"]
 	path = Merchant-App
 	url = https://github.com/iMezemz/Merchant-App.git
+[submodule "StoresApp"]
+	path = StoresApp
+	url = https://github.com/OmarMelouk/StoresApp
