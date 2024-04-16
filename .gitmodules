@@ -1,0 +1,3 @@
+[submodule "Merchant-App"]
+	path = Merchant-App
+	url = https://github.com/iMezemz/Merchant-App.git
