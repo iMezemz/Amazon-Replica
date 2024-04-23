@@ -10,3 +10,7 @@
 	path = search
 	url = https://github.com/yahianasser/search
 	branch = master
+[submodule "UserApp"]
+	path = UserApp
+	url = https://github.com/AlyHegazy2001/UserApp
+	branch = master
